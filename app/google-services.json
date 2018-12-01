@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "32707519781",
+    "firebase_url": "https://fir-4itf-956c4.firebaseio.com",
+    "project_id": "fir-4itf-956c4",
+    "storage_bucket": "fir-4itf-956c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32707519781:android:c5e176b61a8665d3",
+        "android_client_info": {
+          "package_name": "com.diaz.marian.diazmarianexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32707519781-jun02i7pv6ad1nho05hi8ovai267seu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diaz.marian.diazmarianexam2",
+            "certificate_hash": "655e65959ac52dd96ec815e13606c5d3c6129a2b"
+          }
+        },
+        {
+          "client_id": "32707519781-1d3slc5ndeclqgmtukk4o785tu2dcevh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtnWdGe9TUxKgW1elhFP8CXfSfPoTXVOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32707519781-1d3slc5ndeclqgmtukk4o785tu2dcevh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
